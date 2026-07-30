@@ -4,5 +4,5 @@ public class menuVolume : MonoBehaviour
 {
 
     public Slider volumeSlider;
-
+    // supposed to be deleted
 }
